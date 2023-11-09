@@ -15,3 +15,8 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+**Como usar**
+  npm ci (instalar dependencias;
+  npm run migrate (criar DB)
+  npm dun dev (start server)
