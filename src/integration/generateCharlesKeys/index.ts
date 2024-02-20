@@ -1,5 +1,5 @@
 import { geradorNome } from 'gerador-nome'
-import { getKeyCharles } from '../dbBrazilApi'
+import { getKeyCharles } from '../getKeyCharles'
 import UsersController from '../../controllers/SaveKeysDatabase'
 
 interface returnNameInterface {
